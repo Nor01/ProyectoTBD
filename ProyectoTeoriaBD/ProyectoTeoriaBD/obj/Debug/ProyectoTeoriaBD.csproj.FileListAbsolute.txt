@@ -1,0 +1,11 @@
+C:\Users\David Aguilar\AppData\Local\Temporary Projects\ProyectoTeoriaBD\bin\Debug\ProyectoTeoriaBD.exe.config
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\bin\Debug\ProyectoTeoriaBD.exe.config
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\bin\Debug\ProyectoTeoriaBD.exe
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\bin\Debug\ProyectoTeoriaBD.pdb
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.csprojResolveAssemblyReference.cache
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.Properties.Resources.resources
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.csproj.GenerateResource.Cache
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.exe
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.pdb
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.formMenu.resources
+C:\Users\David Aguilar\Desktop\ProyectoTeoriaBD\ProyectoTeoriaBD\ProyectoTeoriaBD\obj\Debug\ProyectoTeoriaBD.formalumnos.resources
