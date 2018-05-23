@@ -38,6 +38,25 @@ namespace ProyectoTeoriaBD
             }
         }
 
+        private void BuscarAlumno(){
+
+            string query = "";
+            DataTable dt = null;
+
+            query = "Select * from Tablaalumno where nocuentaalumno='" + txtBuscarCeutec.Text + "'";
+
+            if (Auxiliar.conexion.SQLSelectDataTable(query, ref dt))
+            {
+                gridAlumnos.DataSource = dt;
+                gridAlumnos.Visible = true;
+            }
+            else
+            {
+                MessageBox.Show("Error: " + Auxiliar.conexion.SQLError());
+            }
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             MostrarAlumnos();
@@ -59,6 +78,11 @@ namespace ProyectoTeoriaBD
             {
                 MessageBox.Show("Error: "+Auxiliar.conexion.SQLError());
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            BuscarAlumno();
         }
     }
 }
